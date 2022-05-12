@@ -6,4 +6,4 @@ GPU's has been enabled to complete this project.
 
 ### Data
 
-The dataset used is [Oxford Flowers 102](https://www.tensorflow.org/datasets/catalog/oxford_flowers102) includes 102 different types of flowers, with ~20 images per flower to train on.
+The dataset used is [Oxford Flowers 102](https://www.tensorflow.org/datasets/catalog/oxford_flowers102) and it includes 102 different types of flowers, with ~20 images per flower to train on.
